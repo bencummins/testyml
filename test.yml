@@ -2,4 +2,4 @@ version: "3.7"
 services:
   ping:
     image: busybox
-    command: ping 8.8.8.8
+    command: ping 1.1.1.1
